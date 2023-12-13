@@ -1,11 +1,37 @@
 ### Hi there 👋
-<h1 align="center"> :wave: Hi, I'm Dipak</h1>
+<h1 align="center"> :wave: Hi, I'm Dipak, MERN stack developer</h1>
+
+- 🎓 Pre Final Year student at IIT BHU, Varanasi
+- 🛠  Proficient with APIs, MERN stack Development 
+- 👯 Looking to collaborate on AI-based development projects, to get exposure of the AI field
+- 📫 Shoot me a mail at <a href = "dipakkanzariya702@gmail.com" > dipakkanzariya702@gmail.com </a>
+
+<!-- <div align= "center">
+  <b> 💻 Competencies </b>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+ </div>
+  -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dipak-kanzariya/">
-    <img src="https://img.shields.io/badge/DipakKanzariya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a/>
+<a href="https://www.linkedin.com/in/dipak-kanzariya/">
+  <img src="https://img.shields.io/badge/DipakKanzariya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a/>
     </p>
+    
  <!-- <a href="https://twitter.com/VashishthPatel_">
     <img src="https://img.shields.io/badge/@VashishthPatel_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
@@ -20,7 +46,7 @@
 <!--
 ---
 
-- 🎓 Pre Final Year student at IIT BHU, Varanasi
+
 - 👩‍💻 Backend Developer at Simulas
 - ☀️ Technical Lead at Google Developer Student Clibs, DDU
 - ☀️ Ex. Full Stack Web Developer at Acowale

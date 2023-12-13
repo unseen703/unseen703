@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center"> :wave: Hi, I'm Dipak, MERN stack developer</h1>
 
-- 🎓 Pre Final Year student at IIT BHU, Varanasi
+- 🎓 Final Year student at IIT BHU, Varanasi
 - 🛠  Proficient with APIs, MERN stack Development 
 - 👯 Looking to collaborate on AI-based development projects, to get exposure of the AI field
 - 📫 Shoot me a mail at <a href = "dipakkanzariya702@gmail.com" > dipakkanzariya702@gmail.com </a>

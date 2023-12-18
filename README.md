@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center"> :wave: Hi, I'm Dipak</h1>
+<h1 align="center">  Hi there 👋, I'm Dipak</h1>
 
 - 🎓 Final Year student at IIT BHU, Varanasi
 - 🛠  Proficient with APIs, MERN stack Development 
